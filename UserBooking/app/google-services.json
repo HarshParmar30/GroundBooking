@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "787456447602",
+    "firebase_url": "https://groundbooking-2fbd1-default-rtdb.firebaseio.com",
+    "project_id": "groundbooking-2fbd1",
+    "storage_bucket": "groundbooking-2fbd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787456447602:android:8fab7191a4f5e4d8dd1eeb",
+        "android_client_info": {
+          "package_name": "com.example.groundbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787456447602-v2avhhjrerp2vs9dbjc25s565fcb7n0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.groundbooking",
+            "certificate_hash": "0feb3660959d99893c281243abc2bf0def4ff35a"
+          }
+        },
+        {
+          "client_id": "787456447602-t6ddb1bdpocv9r4n49sj29anfnmtv3bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnY4U6ixnaQsxki5of9NSLLP_bDJqMrJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787456447602-t6ddb1bdpocv9r4n49sj29anfnmtv3bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787456447602:android:ec597d91f06761e6dd1eeb",
+        "android_client_info": {
+          "package_name": "com.example.userbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787456447602-t6ddb1bdpocv9r4n49sj29anfnmtv3bd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnY4U6ixnaQsxki5of9NSLLP_bDJqMrJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787456447602-t6ddb1bdpocv9r4n49sj29anfnmtv3bd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
